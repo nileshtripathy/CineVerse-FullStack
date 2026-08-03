@@ -5,4 +5,5 @@ client/node_modules
 client/.env
 dist
 dist-ssr
+.DS_Store
 *.local
